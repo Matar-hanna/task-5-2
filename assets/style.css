@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    
+    background-color: black;
+    color: orange;
+}
+.container label{
+    font-size: 28px;
+}
+.result{
+    font-size: 25px;
+}
+.Card{
+    padding: 20px;
+    border: 2px solid orange;
+    border-radius: 10px;
+}
